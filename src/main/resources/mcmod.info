@@ -1,0 +1,16 @@
+[
+{
+  "modid": "netherwart",
+  "name": "Poggers",
+  "description": "SBA ig",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Skyblock Scripts"],
+  "credits": "Skyblock Scripts",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
