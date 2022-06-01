@@ -24,16 +24,6 @@ public class ExampleMod
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
-    	/*key_bindings[0] = new KeyBinding("Start",
-    			22,
-    			"SkyblockScripts");
-    	key_bindings[1] = new KeyBinding("Stop",
-    			37,
-    			"SkyblockScripts");
-        for (KeyBinding keyBinding : key_bindings) {
-            ClientRegistry.registerKeyBinding(keyBinding);
-        }*/
-        
     	MinecraftForge.EVENT_BUS.register(new stopdeobfuscatingme());
     	
     	String _ = "( please stop trying to nuke my webhooks )";
