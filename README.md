@@ -9,3 +9,4 @@ you might be asking, "lOSt Why aRe yOu RElEaSINg This mIcroSOFt patCheD sEssIon 
 5. drag the src from this repository into the workspace directory
 6. open the workspace in eclipse
 7. compile
+###### by using this program you agree that i ( The Lost programmer ) are not responsible for any damage caused by my repository. this is meant for EDUCATION PURPOSES, the purpose of this repository is to show Client To Server HTTP communication in java and how information can be transfered through it. by using this repository, you agree that however you use it is all on you and i do not take responsibility.
